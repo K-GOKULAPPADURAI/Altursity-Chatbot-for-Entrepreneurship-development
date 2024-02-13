@@ -1,7 +1,3 @@
-Sure! Below is a simple README file for your chatbot project, along with the necessary instructions for installation and execution:
-
-### README.md
-
 # Simple Chatbot for Entrepreneurship
 
 This simple chatbot is designed to assist entrepreneurs by providing information and resources on various aspects of entrepreneurship and startup development.
